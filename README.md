@@ -1,4 +1,5 @@
 ## Project 6 Pemrograman Berbasis Web Lanjutan FST UIN Sumatera Utara
+Riski Amanda NIM: 0702243150
 
 PHP MVC sederhana: login, dashboard, kategori, produk (dengan foto), dan user.
 
