@@ -1,6 +1,8 @@
-## Project 6 Pemrograman Berbasis Web Lanjutan FST UIN Sumatera Utara
-Riski Amanda NIM: 0702243150
-
+## Project 7 Pemrograman Berbasis Web Lanjutan FST UIN Sumatera Utara
+**Project 7 Pemrograman Berbasis Web Lanjutan**  
+Riski Amanda NIM : 0702243150                                                        
+Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027                                                 
+UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
 PHP MVC sederhana: login, dashboard, kategori, produk (dengan foto), dan user.
 
 ## Cara menjalankan
